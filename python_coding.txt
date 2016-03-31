@@ -1,0 +1,2 @@
+#test for sublime text editer with python coding
+print
